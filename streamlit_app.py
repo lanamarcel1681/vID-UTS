@@ -21,7 +21,7 @@ df = load_data()
 # --------------------------------------------------
 # Sidebar Navigasi
 # --------------------------------------------------
-st.sidebar.image("https://upload.wikimedia.org/wikipedia/commons/9/9c/Tokopedia_Logo.svg", width=200)
+st.sidebar.image("https://lf-web-assets.tokopedia-static.net/obj/tokopedia-web-sg/arael_v3/9438c3e2.png", width=200)
 st.sidebar.title("📊 Tokopedia CEO Dashboard")
 
 menu = st.sidebar.radio(
